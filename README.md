@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://moe-counter.onrender.com/get/@leanlol?theme=rule34&align=top&scale=2&pixel=true" height="200"/>
-</div>
 
 ###
 
