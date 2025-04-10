@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://count.getloli.com/@:leanlol?name=%5Aleanlol&theme=booru-qualityhentais&padding=4&offset=0&align=top&scale=2&pixelated=1&darkmode=auto"  />
+  <img src="https://moe-counter.onrender.com/get/@leanlol?theme=rule34&align=top&scale=2&pixel=true" height="200"/>
 </div>
 
 ###
