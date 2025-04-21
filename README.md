@@ -1,4 +1,6 @@
-<img src="https://count.getloli.com/@:r03s" alt=":booru-lewd" />
+<div align="center">
+  <img src="https://count.getloli.com/@:r03s" alt=":booru-lewd" />
+</div>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31sya3vgc2ywz5a7rurtlriefu64">
